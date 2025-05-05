@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <p>
 The Municipal Building is located along General Luna Street. It is a two storey edifice that stands majestically on approximately 10,000 square meters more or less. It has a wide lawn along its front yard and in both sides of the building. These vacant spaces serves as a parking lots for vehicles. Its construction was initiated by Don Juan Quizon, the 9th President of the Municipality, during his incumbency from 1919 to 1922. It is to be mentioned that the word “President” is synonymous to the word/title Mayor in its literal sense.The building was established as the center of the municipal’s political affairs or government, the official seat of the head of the town where he exercises his powers for the benefit and welfare of his government. It is common knowledge that during the Japanese Era, from 1940 to 1942, the building served as prison cells for the enemies of the Japanese. In 1928, It was claimed that the completion of the Municipal Building as a component structure was when Don Juan Quizon was re-elected as the 11th President of the Municipality. A historical marker posted at the rear entrance of the building is an authentic attestation on it.
             </p>
-            <p>Tipas-Poctol-Pinagbayanan Rd, San Juan, Batangas</p>
+            <p>R9FW+VPJ, San Juan, Batangas</p>
           `
       },
       {
